@@ -1,0 +1,59 @@
+{
+    "software_list": [
+        {
+            "name": "微信",
+            "download_url": "https://pc.weixin.qq.com/",
+            "keywords": ["WeChatSetup.exe"]
+        },
+        {
+            "name": "钉钉",
+            "download_url":"https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_downloader/dingtalk_downloader.exe",
+            "keywords": ["DingTalk.exe"]
+        },
+        {
+            "name": "鸿合视频展台",
+            "download_url":"https://appmarket.hitecloud.cn/appMarket/package/2024-01-03/f5e846d9afdc4d5c885f3706f3c31a81/HiteCamera.exe",
+            "keywords": ["HiteCamera.exe"]
+        },
+        {
+            "name": "鸿合i学兼容包",
+            "download_url":"https://appmarket.hitecloud.cn/appMarket/package/2021-03-30/2c6c58fe3bfd4403a22503ef2ef677ca/%E9%B8%BF%E5%90%88i%E5%AD%A6%E5%85%BC%E5%AE%B9%E5%8C%85.exe",
+            "keywords": ["HiteiStudy.exe"]
+        },
+        {
+            "name": "希沃白板",
+            "download_url":"https://cstore-pub-cos-seewo-report-tx.seewo.com/seewo-report_uwixlvnlhhulnhlwhlwuojivophhihhh?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1707126575%3B2022486575%26q-key-time%3D1707126575%3B2022486575%26q-header-list%3Dhost%26q-url-param-list%3Dresponse-content-disposition%26q-signature%3D6e3e0c20f978db12afde6c581ec0a5481b50a722&response-content-disposition=attachment%3Bfilename%3D%22EasiNoteSetup_5.2.4.6424_seewo.exe%22%3Bfilename%2A%3Dutf-8%27%27EasiNoteSetup_5.2.4.6424_seewo.exe",
+            "keywords": ["Seewo.exe"]
+        },        
+        {
+            "name": "WPS Office",
+            "download_url":"https://official-package.wpscdn.cn/wps/download/WPS_Setup_16388.exe",
+            "keywords": ["WPS Office.exe"]
+        },
+        {
+            "name": "360压缩",
+            "download_url":"https://yasuo.360.cn/",
+            "keywords": ["360zip_setup.exe"]
+        },
+        {
+            "name": "360极速浏览器",
+            "download_url":"https://browser.360.cn/ee/index.html",
+            "keywords": ["360csex_setup.exe"]
+        },
+        {
+            "name": "希沃白板插件",
+            "download_url":"https://static.shanshui.site/class/plugin.exe",
+            "keywords": ["插件-PC假装是一体机.exe"]
+        },
+        {
+            "name": "360驱动大师",
+            "download_url":"https://dm.weishi.360.cn/home.html",
+            "keywords": ["guanwang__360DrvMgrInstaller_beta.exe"]
+        },
+        {
+            "name": "Windows激活",
+            "download_url":"https://static.shanshui.site/class/WindowsActive.cmd",
+            "keywords": ["WindowsActive.cmd"]
+        }
+    ]
+}
